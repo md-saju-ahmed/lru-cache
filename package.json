@@ -1,0 +1,16 @@
+{
+  "name": "lru-cache",
+  "version": "1.0.0",
+  "main": "dist/src/LRUCache.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "tsc --noEmit"
+  },
+  "keywords": [],
+  "author": "Md. Saju Ahmed",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
