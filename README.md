@@ -72,3 +72,7 @@ get(B) -> -1
 get(C) -> 30
 get(A) -> 10
 ```
+
+## Output
+
+![LRU Cache Output](screenshots/output.png)
